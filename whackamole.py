@@ -1,5 +1,6 @@
 import pygame
-
+import random
+# HELLAUR
 
 def main():
     try:
